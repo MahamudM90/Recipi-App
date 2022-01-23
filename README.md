@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App]
 
+![ScreenShot of Form](screenshorts/a.png)
+![ScreenShot of Form](screenshorts/b.png)
+![ScreenShot of Form](screenshorts/c.png)
+![ScreenShot of Form](screenshorts/d.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
