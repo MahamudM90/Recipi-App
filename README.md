@@ -24,7 +24,7 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 
-### [Live Site](https://61db2a7645fa194097467a5e--cocky-mayer-f2c86d.netlify.app/)
+### [Live Site](https://recipi-find.netlify.app/)
 
 ### `npm run eject`
 
