@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App]
 ##### HomePage
 ![ScreenShot of Form](screenshorts/a.png)
 
-##### HomePage
+##### SearchPage
 ![ScreenShot of Form](screenshorts/b.png)
 
 ##### HomePage
