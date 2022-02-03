@@ -6,10 +6,10 @@ This project was bootstrapped with [Create React App]
 ##### SearchPage
 ![ScreenShot of Form](screenshorts/b.png)
 
-##### HomePage
+##### Recipi List
 ![ScreenShot of Form](screenshorts/c.png)
 
-##### HomePage
+##### 
 ![ScreenShot of Form](screenshorts/d.png)
 
 ## Available Scripts
