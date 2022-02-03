@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App]
 ##### Recipi List
 ![ScreenShot of Form](screenshorts/c.png)
 
-##### 
+##### Recipi Details
 ![ScreenShot of Form](screenshorts/d.png)
 
 ## Available Scripts
