@@ -49,5 +49,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### [Live Site](https://recipi-find.netlify.app/)
+### [Live Site](https://recipi-find.netlify.app)
 
